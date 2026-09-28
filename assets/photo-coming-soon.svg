@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Photo coming soon</title>
+  <desc id="desc">A warm crochet-inspired photo coming soon placeholder.</desc>
+  <rect width="1200" height="900" fill="#f5efeb"/>
+  <path d="M0 720C180 650 310 790 500 715s315-25 700 28v157H0Z" fill="#e5efe7"/>
+  <path d="M0 120C230 40 370 190 580 112s390-20 620 40" fill="none" stroke="#f9ebef" stroke-width="90"/>
+  <text x="600" y="450" text-anchor="middle" fill="#2c1d18" font-family="Georgia, serif" font-size="62" font-weight="700">Photo coming soon</text>
+</svg>
